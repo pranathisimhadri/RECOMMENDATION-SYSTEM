@@ -118,4 +118,6 @@ pip install scikit-surprise
 * E-commerce product suggestion systems
 * News or book recommendation engines
 
+output
 
+![Image](https://github.com/user-attachments/assets/179d1542-d96f-46d4-9048-e465a7487581)
